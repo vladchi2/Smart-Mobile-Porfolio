@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Workaholic</string>
+    <string name="please_wait">Please wait &#8230;</string>
+    <string name="title_activity_dashboard">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

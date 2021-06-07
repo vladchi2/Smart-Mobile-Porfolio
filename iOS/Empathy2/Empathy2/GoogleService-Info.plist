@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1003098985973-26c2bj0proen7le7imuh03dofo70pmts.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1003098985973-26c2bj0proen7le7imuh03dofo70pmts</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBbo_OTJ53JLP-wNMg74F2nw15nqPmqTbg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1003098985973</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lepadatum.Empathy2</string>
+	<key>PROJECT_ID</key>
+	<string>smartmobileios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smartmobileios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1003098985973:ios:e93978d5ec904f3df1bcbc</string>
+</dict>
+</plist>
